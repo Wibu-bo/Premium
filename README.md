@@ -7,7 +7,7 @@
     pip3 install requests bs4
     rm -rf Prem
     git clone https://github.com/Wibu-bo/Premium
-    cd Prem
+    cd Premium
     python3 menu.py
 ### Media Sosial
 <a href="https://wa.me/+62859162612719">Chat whatsApp</a></br>
